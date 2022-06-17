@@ -24,7 +24,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.47</version><!--$NO-MVN-MAN-VER$ -->
+			<version>1.2.83</version><!--$NO-MVN-MAN-VER$ -->
 		</dependency>
 	</dependencies>
 	<build>
