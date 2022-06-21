@@ -31,7 +31,7 @@
 		<axis2.version>1.6.2</axis2.version>
 		<poi.version>3.17</poi.version>
 		<project.version>0.0.1-SNAPSHOT</project.version>
-		<mysql-connector.version>8.0.19</mysql-connector.version>
+		<mysql-connector.version>8.0.28</mysql-connector.version>
 	</properties>
 
 	<!-- 子pom会自动使用父pom中的jar包 -->
