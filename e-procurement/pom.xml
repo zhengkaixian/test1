@@ -29,7 +29,7 @@
 		<mybatis-generator-core.version>1.8.6</mybatis-generator-core.version>
 		<activiti.version>5.22.0</activiti.version>
 		<axis2.version>1.6.2</axis2.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<project.version>0.0.1-SNAPSHOT</project.version>
 		<mysql-connector.version>8.0.19</mysql-connector.version>
 	</properties>
